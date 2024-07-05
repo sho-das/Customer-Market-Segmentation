@@ -2491,8 +2491,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb48-1"><a h
 <span id="cb48-2"><a href="#cb48-2" aria-hidden="true" tabindex="-1"></a>creditcard_cluster_df.to_csv(<span class="st">&quot;Clustered_Customer_Data.csv&quot;</span>)</span></code></pre></div>
 </div>
 <div class="cell markdown">
-<p>I hope you found this analysis of Customer Market Segmentation of SBI
-Life Insurance using K-Means Clustering model both comprehensive and
+<p>I hope you found this analysis of Customer Market Segmentation using K-Means Clustering model both comprehensive and
 insightful! <br> Your feedback is invaluable, please share your thoughts
 if you enjoyed it. <br> Check out more such projects <a
 href="https://github.com/sho-das">here</a>! 😄😅 <br> <a
