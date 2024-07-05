@@ -265,7 +265,7 @@ user<br> <b>PURCHASESFREQUENCY :</b> How frequently the Purchases are
 being made, score between 0 and 1 (1 = frequently purchased, 0 = not
 frequently purchased)<br> <b>ONEOFFPURCHASESFREQUENCY :</b> How
 frequently Purchases are happening in one-go (1 = frequently purchased,
-0 = not frequently purchased)<br> PURCHASESINSTALLMENTSFREQUENCY :</b>
+0 = not frequently purchased)<br> <b> PURCHASESINSTALLMENTSFREQUENCY :</b>
 How frequently purchases in installments are being done (1 = frequently
 done, 0 = not frequently done)<br> <b>CASHADVANCEFREQUENCY :</b> How
 frequently the cash in advance being paid<br> <b>CASHADVANCETRX :</b>
